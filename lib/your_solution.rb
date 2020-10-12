@@ -1,5 +1,3 @@
 # Write your solution here
+puts "Hello World"
 
-def program()
-  puts "Hello World"
-end
